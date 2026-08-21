@@ -24,7 +24,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="60%">
-      <code>> Olá, visitante. Sou Luiz Phelip Costa.</code><br><br>
+      <code>> Olá, Sou Luiz Phelip.</code><br><br>
       <code>> Atualmente em evolução constante no ecossistema de TI, combinando lógica matemática, análise de sistemas e desenvolvimento de software.</code><br><br>
       <code>> Atuo como Aprendiz de T.I. na CMOC Brasil, aplicando soluções práticas e suporte técnico, enquanto aprofundo meus conhecimentos em Análise e Desenvolvimento de Sistemas.</code><br><br>
       <code>> Foco principal: Automatização de processos, manipulação de dados com SQL e construção de scripts eficientes em Python.</code>
